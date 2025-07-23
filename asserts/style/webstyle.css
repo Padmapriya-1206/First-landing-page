@@ -104,6 +104,7 @@ button{
     background-color: navy;
     border-radius: 40px;
     width: 200px;
+    border: none;
 }
 .b2
 {
@@ -111,6 +112,7 @@ button{
     background-color: lightgrey;
     border-radius: 40px;
     width: 200px;
+    border: none;
 }
 .abt
 {
@@ -214,4 +216,9 @@ h1{
 .btn{
     display: flex;
     
+}
+.log
+{
+    margin-right: 20px;
+    padding: 10px 15px;
 }
