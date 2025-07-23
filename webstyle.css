@@ -112,6 +112,7 @@ button{
     flex-direction: column;
     justify-content: center;
     margin-bottom: 2px;
+    padding-left: 20px;
 
 }
 .img
@@ -156,6 +157,7 @@ h1{
     height: 400px;
     margin-top: 2px;
     margin-left: 50px;
+    padding-left: 20px;
 }
 .why
 {
@@ -163,6 +165,7 @@ h1{
     width: 550px;
     height: 400px;
     margin-top: 3px;
+    padding-left: 20px;
 }
 .para3
 {
@@ -183,4 +186,18 @@ h1{
 {
     font-weight:normal;
 }
+.abt:hover{
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.img:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
+}
+.story:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.why:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
